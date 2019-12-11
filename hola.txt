@@ -1,0 +1,4 @@
+hola
+Descargar git-scm de https://git-scm.com/download/win
+Creamos cuenta en github
+Principios básicos control versiones en vs-code https://code.visualstudio.com/docs/editor/versioncontrol
