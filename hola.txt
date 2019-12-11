@@ -6,3 +6,6 @@ Es necesario crear un usuario para operar localmente
 git config --global user.name "luis"
 git config --global user.email "luis@soy.yo"
 Ahora podemos hacer varios commits (con el check, con el command palette, en el terminal...)
+En el terminal hay que editar el fichero que nos manda, y poner un nombre en el primera linea
+En el terminal git log --oneline nos muestra los commits
+Restaurar commits anteriores https://es.stackoverflow.com/questions/41489/volver-a-commit-anterior
