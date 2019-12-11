@@ -2,3 +2,7 @@ hola
 Descargar git-scm de https://git-scm.com/download/win
 Creamos cuenta en github
 Principios básicos control versiones en vs-code https://code.visualstudio.com/docs/editor/versioncontrol
+Es necesario crear un usuario para operar localmente
+git config --global user.name "luis"
+git config --global user.email "luis@soy.yo"
+Ahora podemos hacer varios commits (con el check, con el command palette, en el terminal...)
