@@ -9,3 +9,7 @@ Ahora podemos hacer varios commits (con el check, con el command palette, en el 
 En el terminal hay que editar el fichero que nos manda, y poner un nombre en el primera linea
 En el terminal git log --oneline nos muestra los commits
 Restaurar commits anteriores https://es.stackoverflow.com/questions/41489/volver-a-commit-anterior
+Por ejemplo git checkout f649dec
+Tambíen puedo ir dos para atras con git reset --hard HEAD~2
+Para subir a github, creamos un repositorio y copiamos al url
+Invocamos git remote add origin https://github.com/dam2ourense/git-dic-2019.git
